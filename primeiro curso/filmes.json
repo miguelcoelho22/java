@@ -1,0 +1,16 @@
+[
+  {
+    "Nome": "Matrix",
+    "AnoDeLancamento": 1993,
+    "DuracaoEmMinutos": 60,
+    "Avaliaçao": 0.0,
+    "QuantidadeDeAvaliaçoes": 0
+  },
+  {
+    "Nome": "Batman",
+    "AnoDeLancamento": 1989,
+    "DuracaoEmMinutos": 12,
+    "Avaliaçao": 0.0,
+    "QuantidadeDeAvaliaçoes": 0
+  }
+]
