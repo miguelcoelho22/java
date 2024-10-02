@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4c5845b-62ea-49e4-aeed-a63bc2ba35a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../3698-java-clean-architecture-main/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../3698-java-clean-architecture-main/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../picpaysimplificado" beforeDir="false" afterPath="$PROJECT_DIR$/../picpaysimplificado" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

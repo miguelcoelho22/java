@@ -2,8 +2,11 @@ package com.example.pagamentos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
+@EnableDiscoveryClient
+@EnableFeignClient
 public class PagamentosApplication {
 
 	public static void main(String[] args) {
